@@ -1,4 +1,5 @@
 let a = 12
-let b = 23
-let c = a + b
-print(c)
+let b: Double = 3/4
+//let c = a + b
+print(b)
+print(a)
